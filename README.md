@@ -1,4 +1,5 @@
 # MyGrub
+####[Live Demo](http://www.jeremyhilliard.com/projects/myGrub/index.html#/ "MyGrub")
 
 ## Recipe App
 Team: Curtis, Josh, Jeremy, and Kochan
@@ -51,4 +52,4 @@ The application uses the identified/tagged inventory items plus the user's favor
 ![Alt text](screenshots/ScreenShot11.png?raw=true)
 ![Alt text](screenshots/ScreenShot12.png?raw=true)
 
-####[Live Demo](http://www.jeremyhilliard.com/projects/myGrub/index.html#/ "MyGrub")
+
